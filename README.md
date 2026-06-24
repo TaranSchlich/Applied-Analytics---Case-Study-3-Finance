@@ -13,7 +13,7 @@ The work spans two connected phases — from raw SQL analysis through a stakehol
 | Phase | Folder | Deliverable |
 |---|---|---|
 | Case Study 3 — finance analysis (growth, margins, pricing policy) | [`case-study-3/`](./case-study-3) | [Finance Findings deck](./case-study-3/deliverables/Urban_Hamster_Case3_Finance_Findings.pptx) + [video walkthrough](./case-study-3/deliverables/VIDEO.md) |
-| Mini-Project 3 — Streamlit "Pricing Hub" app for the sales team | [`mini-project-3/`](./mini-project-3) | [Streamlit app](./mini-project-3/streamlit/streamlit_app.py) + [video walkthrough](./mini-project-3/deliverables/VIDEO.md) |
+| Mini-Project 3 — Streamlit "Pricing Hub" app for the sales team | [`mini-project-3/`](./mini-project-3) | [Streamlit app](./mini-project-3/streamlit/streamlit_app.py) · [live app ↗](https://app.snowflake.com/streamlit/us-east-1/eac82456/#/apps/lgxwayv44dmv53cfrhdp) · [video walkthrough](./mini-project-3/deliverables/VIDEO.md) |
 
 ---
 
@@ -55,6 +55,7 @@ After the analysis, Kent's follow-up: the sales staff negotiate product costs wi
 
 - Built a `product_details` **view** (one row per product: price, unit cost, margin in $ and %, total sales) feeding a **Streamlit-in-Snowflake** app
 - The **Urban Hamster Pricing Hub** lets sales filter by department, category, and brand; it surfaces 4 KPIs, three Seaborn distributions, and a filtered data table — all reactive to the filters
+  - 🔗 **Live app:** [Streamlit in Snowflake](https://app.snowflake.com/streamlit/us-east-1/eac82456/#/apps/lgxwayv44dmv53cfrhdp) *(requires access to the Snowflake workspace)*
 - Includes the introductory **Retirement Calculator** warm-up (sample inputs → **$3,330,503.40**)
 
 ---
