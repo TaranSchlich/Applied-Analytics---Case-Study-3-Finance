@@ -4,6 +4,8 @@ A 2+ minute screen-share demo of the **Urban Hamster Pricing Hub** for the
 finance/sales team, showing how the app meets Kent's request. The video shows
 both the presenter and the screen; no code is shown.
 
+**🎥 Watch the walkthrough:** https://www.loom.com/share/5abf82e300e2464a922912bcbe901864
+
 **Live app:** https://app.snowflake.com/streamlit/us-east-1/eac82456/#/apps/lgxwayv44dmv53cfrhdp
 *(Streamlit in Snowflake — requires access to the workspace.)*
 
